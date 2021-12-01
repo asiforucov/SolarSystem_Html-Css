@@ -1,7 +1,7 @@
 body {
     background-image: url("/İmg/galaxy2.jpg");
     background-repeat: no-repeat;
-
+    background-color: darkblue;
     background-size: cover;
   }
   * {
